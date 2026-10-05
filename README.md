@@ -31,5 +31,5 @@ Após a análise detalhada da base de dados, cheguei a três grandes conclusões
 Este projeto demonstra como a manipulação e visualização de dados pode ser usada não apenas para gerar gráficos, mas para diagnosticar problemas de negócio complexos e direcionar a tomada de decisão. A aplicação das soluções propostas tem o potencial de reduzir drasticamente a taxa de churn e aumentar o faturamento da empresa.
 
 ---
-*Desenvolvido por [Ricardo-augusto]*  
-*Conecte-se comigo no [LinkedIn]([(https://www.linkedin.com/in/ricardo-augusto-49895b3aa)])
+*Desenvolvido por [Seu Nome]*  
+*Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ricardo-augusto-49895b3aa)*
